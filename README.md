@@ -5,7 +5,7 @@ Bu proje, **React Native 0.77** sürümüne uygun olarak hazırlanmış bir baş
 
 ## 🖼️ Ekran Görüntüsü
 
-<img src="[https://i.hizliresim.com/örnekresim.png](https://i.hizliresim.com/5j2wovh.png)" alt="Uygulama Önizleme" width="600">
+<img src="https://i.hizliresim.com/5j2wovh.png" alt="Uygulama Önizleme" width="600">
 
 
 ## 📌 Kurulum
