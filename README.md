@@ -5,7 +5,7 @@ Bu proje, **React Native 0.77** sürümüne uygun olarak hazırlanmış bir baş
 
 ## 🖼️ Ekran Görüntüsü
 
-<img src="https://github.com/muhammederencennetkusu/React-Native-Templates/blob/main/Screenshot_4.png" alt="Uygulama Önizleme" width="600">
+<img src="https://github.com/muhammederencennetkusu/React-Native-Templates/blob/main/Screenshot_5.png" alt="Uygulama Önizleme" width="600">
 
 
 ## 📌 Kurulum
