@@ -1,6 +1,7 @@
 # 🚀 React Native Template
 
 Bu proje, **React Native 0.77** sürümüne uygun olarak hazırlanmış bir başlangıç şablonudur. İçerisinde hazır olarak **React Navigation** ve **React Native Vector Icons** kütüphaneleri entegre edilmiştir.
+<img src="https://i.hizliresim.com/5j2wovh.png" alt="Resim Yükle">
 
 ## 📌 Kurulum
 
