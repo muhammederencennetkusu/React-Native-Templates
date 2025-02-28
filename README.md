@@ -15,7 +15,7 @@ Aşağıdaki adımları takip ederek projeyi kullanabilirsiniz:
 ### 1️⃣ Projeyi Başlat
 
 ```bash
-git clone https://github.com/muhammederencennetkusu/React-Native-Template YeniProje
+git clone https://github.com/muhammederencennetkusu/React-Native-Templates YeniProje
 cd YeniProje
 npm install
 ```
